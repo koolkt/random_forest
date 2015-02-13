@@ -4,8 +4,8 @@
 #include <fstream>
 #include <iostream>
 
-#include "DecisionTree.h"
-#include "RandomForest.h"
+#include "../DecisionTree.h"
+#include "../RandomForest.h"
 
 using namespace std;
 
